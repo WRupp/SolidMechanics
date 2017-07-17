@@ -1,1 +1,1 @@
-# SolidMechanics
+# Basic Tensor operations for solid mechanics.
