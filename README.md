@@ -1,1 +1,1 @@
-# Basic Tensor operations for solid mechanics.
+  # Operações tensoriais básicas para uso em mecânica dos sólidos
